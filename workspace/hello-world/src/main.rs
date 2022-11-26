@@ -27,3 +27,5 @@ async fn main() {
 async fn handler() -> &'static str {
     "Hello, world!"
 }
+
+// Run the server using: `cargo run --bin hello-world`
